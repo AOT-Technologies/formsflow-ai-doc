@@ -9,7 +9,7 @@ const code_themes = {
 const defaultSettings = {
   breadcrumbs: true,
   editUrl: ({ versionDocsDirPath, docPath}) => {
-    return `https://github.com/AOT-Technologies/formsflow-ai-doc.git/edit/master/${versionDocsDirPath}/${docPath}`;
+    return `https://github.com/AOT-Technologies/formsflow-ai-doc/edit/develop/${versionDocsDirPath}/${docPath}`;
   },
   showLastUpdateTime: true,
   sidebarCollapsible: true,
