@@ -22,7 +22,7 @@ const config = {
   tagline: 'Formsflow.ai Documentation',
   favicon: 'img/favicon.ico',
   url: 'https://AOT-Technologies.github.io',
-  baseUrl: '/',
+  baseUrl: '/formsflow-ai-doc',
   organizationName: 'Aot-Technologies',
   projectName: 'formsflow-ai-doc', 
   onBrokenLinks: 'throw',
